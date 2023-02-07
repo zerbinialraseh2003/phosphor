@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
