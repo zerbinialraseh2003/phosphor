@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
