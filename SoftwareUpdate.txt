@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Elaborate Train and Predict mode docs arguments (#8137)
