@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+docs: update view-results-in-terminal.md (#66)
