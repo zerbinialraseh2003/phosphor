@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Update Discord and Contributing Guide URLs (#9270)
