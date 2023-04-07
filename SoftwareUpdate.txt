@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Allow Annotator PIL.Image inputs (#8397)
