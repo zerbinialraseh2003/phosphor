@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add OBB save_txt feature (#7450)
