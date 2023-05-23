@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
