@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Optimize function calls to method calls (#8507)
