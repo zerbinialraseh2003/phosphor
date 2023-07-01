@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
