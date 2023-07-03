@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
