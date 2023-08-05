@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Avoid creating -hub dir without processing images (#8334)
