@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
