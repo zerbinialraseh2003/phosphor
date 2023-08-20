@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
