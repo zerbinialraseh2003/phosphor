@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Explorer with LanceDB, Actions and Docs updates (#7487)
