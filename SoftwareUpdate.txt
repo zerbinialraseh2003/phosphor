@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Optimize function calls to method calls (#8507)
