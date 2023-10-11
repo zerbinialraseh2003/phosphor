@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
