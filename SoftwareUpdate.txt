@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Auto-format by https://ultralytics.com/actions
