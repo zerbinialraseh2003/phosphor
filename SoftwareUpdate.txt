@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
