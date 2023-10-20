@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
