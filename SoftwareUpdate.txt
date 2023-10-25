@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Update the heatmap module code + docs (#7045)
