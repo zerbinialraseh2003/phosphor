@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+New test for labels and crops (#8861)
