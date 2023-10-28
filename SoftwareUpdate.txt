@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
