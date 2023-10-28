@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Expand Model method type hinting (#8279)
