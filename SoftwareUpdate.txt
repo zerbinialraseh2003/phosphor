@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Python refactorings and simplifications (#7549)
