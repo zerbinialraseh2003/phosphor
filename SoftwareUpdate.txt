@@ -1,1 +1,1 @@
-fix predict with class filter
+Pass callbacks to validator (#7320)
