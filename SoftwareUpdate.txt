@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Fix Neural Magic links (#9144)
