@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Fix ONNX GPU inference bug (#6840)
