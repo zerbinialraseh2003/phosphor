@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Fix xyxyxyxyn calculation, swap axis (#8249)
