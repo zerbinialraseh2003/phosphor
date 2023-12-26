@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
