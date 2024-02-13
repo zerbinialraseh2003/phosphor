@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
