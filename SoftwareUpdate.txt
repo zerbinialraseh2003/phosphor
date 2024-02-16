@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Clarify triton server boolean value (#8532)
