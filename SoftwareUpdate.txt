@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Move Explorer tests to scheduled CI (#8305)
