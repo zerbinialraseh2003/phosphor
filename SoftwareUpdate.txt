@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Fix xyxyxyxyn calculation in obb result (#8188)
