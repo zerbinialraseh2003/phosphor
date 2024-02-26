@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Improve Docs Modes tables (#8266)
