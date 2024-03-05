@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
