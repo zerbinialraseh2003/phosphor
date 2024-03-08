@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
