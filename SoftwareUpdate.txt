@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
