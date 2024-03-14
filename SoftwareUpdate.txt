@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
