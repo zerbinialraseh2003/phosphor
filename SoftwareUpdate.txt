@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Model typehints Docker fix (#8306)
