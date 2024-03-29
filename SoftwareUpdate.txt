@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
