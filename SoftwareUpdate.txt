@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
