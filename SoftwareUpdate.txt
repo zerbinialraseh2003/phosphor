@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
