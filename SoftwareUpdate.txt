@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
