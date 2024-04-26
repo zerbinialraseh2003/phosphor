@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
