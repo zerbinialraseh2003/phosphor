@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
