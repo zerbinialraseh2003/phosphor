@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
