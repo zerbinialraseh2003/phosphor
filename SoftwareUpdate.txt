@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Add PR Summary step to Ultralytics Actions (#7675)
