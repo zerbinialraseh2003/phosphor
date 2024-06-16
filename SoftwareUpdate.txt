@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
