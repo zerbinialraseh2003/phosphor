@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
