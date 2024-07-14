@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
