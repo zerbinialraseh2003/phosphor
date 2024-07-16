@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
