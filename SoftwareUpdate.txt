@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Fix PNNX ubuntu -> linux bug (#7050)
