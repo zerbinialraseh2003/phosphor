@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
