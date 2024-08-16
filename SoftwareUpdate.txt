@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
