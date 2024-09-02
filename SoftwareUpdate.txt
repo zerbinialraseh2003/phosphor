@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Faster batch same_shapes (#8851)
