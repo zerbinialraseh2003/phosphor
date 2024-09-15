@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Batch inference fixes (#8854)
